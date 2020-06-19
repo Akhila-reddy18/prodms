@@ -1,0 +1,7 @@
+organization=akhila-reddy18
+projectKey=Akhila-reddy18_prodms
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8830
+dashboardUrl=https://sonarcloud.io/dashboard?id=Akhila-reddy18_prodms
+ceTaskId=AXLNkcpLosnk-I8EyK2_
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXLNkcpLosnk-I8EyK2_
